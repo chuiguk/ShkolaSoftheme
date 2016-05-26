@@ -1,0 +1,13 @@
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\bin\Debug\AgeWPF.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\MainWindow.baml
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\MainWindow.g.cs
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\App.g.cs
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF_MarkupCompile.cache
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.g.resources
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.Properties.Resources.resources
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.csproj.GenerateResource.Cache
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\bin\Debug\AgeWPF.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\bin\Debug\AgeWPF.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeWPF\obj\Debug\AgeWPF.pdb

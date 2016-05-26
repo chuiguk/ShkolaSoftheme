@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\bin\Debug\Calculator.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\bin\Debug\Calculator.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\bin\Debug\Calculator.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\obj\Debug\Calculator.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\Calculator\obj\Debug\Calculator.pdb

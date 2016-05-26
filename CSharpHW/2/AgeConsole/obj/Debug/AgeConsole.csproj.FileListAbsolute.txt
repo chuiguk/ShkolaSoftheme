@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\bin\Debug\AgeConsole.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\bin\Debug\AgeConsole.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\bin\Debug\AgeConsole.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\obj\Debug\AgeConsole.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\obj\Debug\AgeConsole.exe
+c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\AgeConsole\obj\Debug\AgeConsole.pdb
