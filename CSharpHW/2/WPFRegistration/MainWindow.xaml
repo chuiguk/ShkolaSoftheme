@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPFRegistration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="581.6" Width="525">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Name="nameBox" Height="23" Margin="194,37,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" LostFocus="nameBox_LostFocus"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="194,265,0,0" TextWrapping="Wrap" Name="emailBox" VerticalAlignment="Top" Width="120" LostFocus="emailBox_LostFocus" TextChanged="emailBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Name="lastNameBox" VerticalAlignment="Top" Width="120" Margin="194,89,0,0" LostFocus="lastNameBox_LostFocus"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Name="phoneBox" VerticalAlignment="Top" Width="120" Margin="194,323,0,0" LostFocus="phoneBox_LostFocus" TextChanged="phoneBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Name="additionalBox" VerticalAlignment="Top" Width="120" Margin="194,380,0,0" LostFocus="additionalBox_LostFocus"/>
+        <ComboBox  Name="genderMenu" HorizontalAlignment="Left" Margin="186,202,0,0" VerticalAlignment="Top" Width="135" SelectionChanged="genderMenu_SelectionChanged" MaxDropDownHeight="120" IsSynchronizedWithCurrentItem="True">
+            <MenuItem x:Name="genderMale" Header="  Male" FontWeight="Bold" Width="120" Click="genderMale_Click"/>
+            <MenuItem x:Name="genderFemale" Header="Female" FontWeight="Bold" Click="genderFemale_Click"/>
+        </ComboBox>
+        <DatePicker Name="datePicker" HorizontalAlignment="Left" Margin="194,147,0,0" VerticalAlignment="Top" Width="120" SelectedDateChanged="SelectedDateChanged"/>
+        <Button Content="Submit" Name="submitButton" HorizontalAlignment="Left" Margin="211,463,0,0" VerticalAlignment="Top" Width="75" Click="submitButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="129,40,0,0" TextWrapping="Wrap" Text="First Name:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="129,92,0,0" TextWrapping="Wrap" Text="Last Name:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="132,151,0,0" TextWrapping="Wrap" Text="Birth Date:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="136,205,0,0" TextWrapping="Wrap" Text="Gender:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,268,0,0" TextWrapping="Wrap" Text="E-mail:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="108,326,0,0" TextWrapping="Wrap" Text="Phone number:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="107,384,0,0" TextWrapping="Wrap" Text="Additional info:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="66,487,0,0" TextWrapping="Wrap" Name="answerBlock" VerticalAlignment="Top" Width="369" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,65,0,0" TextWrapping="Wrap" Name="nameError" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,65,0,0" TextWrapping="Wrap" x:Name="nameError_Copy" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,117,0,0" TextWrapping="Wrap" Name="lastNameError" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,293,0,0" TextWrapping="Wrap" Name="emailError" VerticalAlignment="Top" RenderTransformOrigin="0.927,-0.875" Width="119" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,351,0,0" TextWrapping="Wrap" Name="phoneError" VerticalAlignment="Top" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,422,0,0" TextWrapping="Wrap" Name="infoError" VerticalAlignment="Top" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="194,176,0,0" TextWrapping="Wrap" Name="dateError" VerticalAlignment="Top" Width="119"/>
+
+    </Grid>
+</Window>

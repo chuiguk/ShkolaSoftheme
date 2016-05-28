@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeConsole", "AgeConsole\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeWPF", "AgeWPF\AgeWPF.csproj", "{C3F51EE7-4D5B-4956-966D-FF14683B438A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFRegistration", "WPFRegistration\WPFRegistration.csproj", "{2FE3DE0D-8F0A-412F-A2C1-7C087D7160A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C3F51EE7-4D5B-4956-966D-FF14683B438A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3F51EE7-4D5B-4956-966D-FF14683B438A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3F51EE7-4D5B-4956-966D-FF14683B438A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE3DE0D-8F0A-412F-A2C1-7C087D7160A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE3DE0D-8F0A-412F-A2C1-7C087D7160A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE3DE0D-8F0A-412F-A2C1-7C087D7160A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE3DE0D-8F0A-412F-A2C1-7C087D7160A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

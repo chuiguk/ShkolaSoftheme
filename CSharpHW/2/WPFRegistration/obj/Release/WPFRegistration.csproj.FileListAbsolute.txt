@@ -1,0 +1,13 @@
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\bin\Release\WPFRegistration.exe.config
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\bin\Release\WPFRegistration.exe
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\bin\Release\WPFRegistration.pdb
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\MainWindow.baml
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\MainWindow.g.cs
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\App.g.cs
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration_MarkupCompile.cache
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.g.resources
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.Properties.Resources.resources
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.csproj.GenerateResource.Cache
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.exe
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\WPFRegistration\obj\Release\WPFRegistration.pdb

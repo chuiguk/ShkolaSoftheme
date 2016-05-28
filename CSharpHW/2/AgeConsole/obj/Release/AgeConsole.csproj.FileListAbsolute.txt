@@ -1,0 +1,5 @@
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\AgeConsole\bin\Release\AgeConsole.exe.config
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\AgeConsole\bin\Release\AgeConsole.exe
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\AgeConsole\bin\Release\AgeConsole.pdb
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\AgeConsole\obj\Release\AgeConsole.exe
+C:\Users\erchi\Documents\Visual Studio 2013\Projects\HW2\AgeConsole\obj\Release\AgeConsole.pdb
