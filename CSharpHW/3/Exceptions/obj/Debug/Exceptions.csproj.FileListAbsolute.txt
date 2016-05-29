@@ -11,3 +11,16 @@ C:\Users\erchi\documents\visual studio 2013\Projects\HW3\Exceptions\obj\Debug\Ex
 C:\Users\erchi\documents\visual studio 2013\Projects\HW3\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache
 C:\Users\erchi\documents\visual studio 2013\Projects\HW3\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\erchi\documents\visual studio 2013\Projects\HW3\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\MainWindow.baml
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\MainWindow.g.cs
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\App.g.cs
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions_MarkupCompile.cache
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.g.resources
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache

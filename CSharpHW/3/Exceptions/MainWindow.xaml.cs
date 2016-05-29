@@ -36,12 +36,20 @@ namespace Exceptions
                 {
                     answerBlock.Text = "Sucsess!";
                 }
+                else if (Convert.ToInt32(textBox.Text) > 10 || Convert.ToInt32(textBox.Text) < 0)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
                 else
                 {
                     throw new Exception("Wrong!");
                 }
             }
             catch (FormatException ex)
+            {
+                answerBlock.Text = ex.Message;
+            }
+            catch (ArgumentOutOfRangeException ex)
             {
                 answerBlock.Text = ex.Message;
             }
