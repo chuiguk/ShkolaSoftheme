@@ -38,13 +38,22 @@ namespace HW3
             for (int i = 1; i < _size / 2; i++)
             {
                 Console.Write(new string(' ', _size - i));
-                Console.Write(new string('*', i * 2));
+                Console.Write(new string('*', i));
+                if (i > 1)
+                {
+                    Console.Write(new string('*', i - 1));
+                }
                 Console.WriteLine();
             }
-            for (int i = (_size - 1) / 2; i > 0; i--)
+
+            for (int i = _size / 2 - 2; i > 0; i--)
             {
                 Console.Write(new string(' ', _size - i));
-                Console.Write(new string('*', i * 2));
+                Console.Write(new string('*', i));
+                if (i > 1)
+                {
+                    Console.Write(new string('*', i - 1));
+                }
                 Console.WriteLine();
             }
         }
