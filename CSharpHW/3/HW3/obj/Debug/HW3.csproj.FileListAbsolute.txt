@@ -7,3 +7,6 @@ c:\users\erchi\documents\visual studio 2013\Projects\HW3\HW3\obj\Debug\HW3.pdb
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\bin\Debug\HW3.exe.config
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\obj\Debug\HW3.exe
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\obj\Debug\HW3.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\bin\Debug\HW3.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\bin\Debug\HW3.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache

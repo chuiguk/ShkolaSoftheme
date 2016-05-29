@@ -35,7 +35,7 @@ namespace HW3
         }
         public void PrintRomb()
         {
-            for (int i = 1; i < _size / 2; i++)
+            for (int i = 1; i < _size + 1; i++)
             {
                 Console.Write(new string(' ', _size - i));
                 Console.Write(new string('*', i));
@@ -46,7 +46,7 @@ namespace HW3
                 Console.WriteLine();
             }
 
-            for (int i = _size / 2 - 2; i > 0; i--)
+            for (int i = _size - 1; i > 0; i--)
             {
                 Console.Write(new string(' ', _size - i));
                 Console.Write(new string('*', i));
