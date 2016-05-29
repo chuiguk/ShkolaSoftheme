@@ -29,7 +29,7 @@ namespace Exceptions
 
         private void goButton_Click(object sender, RoutedEventArgs e)
         {
-            _number = _rand.Next(10);
+            _number = _rand.Next(11);
             try
             {
                 if (_number == Convert.ToInt32(textBox.Text))
