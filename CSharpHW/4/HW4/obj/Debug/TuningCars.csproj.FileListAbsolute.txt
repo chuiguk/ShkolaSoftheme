@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\bin\Debug\HW4.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\bin\Debug\HW4.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\bin\Debug\HW4.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\obj\Debug\TuningCars.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\obj\Debug\HW4.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW4\HW4\obj\Debug\HW4.pdb

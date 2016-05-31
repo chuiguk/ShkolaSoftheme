@@ -1,0 +1,6 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\bin\Debug\Shapes.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\bin\Debug\Shapes.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\bin\Debug\Shapes.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\obj\Debug\Shapes.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\Shapes\obj\Debug\Shapes.pdb

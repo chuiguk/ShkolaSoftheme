@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuningCars", "HW4\TuningCars.csproj", "{12D06BB4-2C74-40FB-A77E-264442D878FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanClass", "HumanClass\HumanClass.csproj", "{50353733-8D3A-4966-B2CA-222CCA4D7B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{223D5F38-2000-46F8-87EF-D71BDC8A5D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D06BB4-2C74-40FB-A77E-264442D878FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D06BB4-2C74-40FB-A77E-264442D878FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D06BB4-2C74-40FB-A77E-264442D878FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D06BB4-2C74-40FB-A77E-264442D878FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50353733-8D3A-4966-B2CA-222CCA4D7B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50353733-8D3A-4966-B2CA-222CCA4D7B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50353733-8D3A-4966-B2CA-222CCA4D7B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50353733-8D3A-4966-B2CA-222CCA4D7B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223D5F38-2000-46F8-87EF-D71BDC8A5D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223D5F38-2000-46F8-87EF-D71BDC8A5D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223D5F38-2000-46F8-87EF-D71BDC8A5D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223D5F38-2000-46F8-87EF-D71BDC8A5D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

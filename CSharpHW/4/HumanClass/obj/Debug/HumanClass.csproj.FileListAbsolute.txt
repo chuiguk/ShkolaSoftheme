@@ -1,0 +1,6 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\bin\Debug\HumanClass.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\bin\Debug\HumanClass.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\bin\Debug\HumanClass.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\obj\Debug\HumanClass.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\obj\Debug\HumanClass.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW4\HumanClass\obj\Debug\HumanClass.pdb

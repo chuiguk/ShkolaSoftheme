@@ -11,3 +11,6 @@ c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\NumericDat
 c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.csproj.GenerateResource.Cache
 c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.exe
 c:\users\erchi\documents\visual studio 2013\Projects\NumericDataTypes\NumericDataTypes\obj\Debug\NumericDataTypes.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\bin\Debug\NumericDataTypes.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\obj\Debug\NumericDataTypes.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\2\NumericDataTypes\obj\Debug\NumericDataTypes.pdb
