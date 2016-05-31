@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\bin\Debug\HW5.exe.config
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\bin\Debug\HW5.exe
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\bin\Debug\HW5.pdb
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\obj\Debug\HW5.exe
+c:\users\1\documents\visual studio 2015\Projects\HW5\HW5\obj\Debug\HW5.pdb
