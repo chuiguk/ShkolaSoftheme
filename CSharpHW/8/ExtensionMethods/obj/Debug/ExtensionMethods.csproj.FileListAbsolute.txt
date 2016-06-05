@@ -6,3 +6,11 @@ c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\De
 c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
 c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.exe
 c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\bin\Debug\HW8.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\bin\Debug\HW8.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\8\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

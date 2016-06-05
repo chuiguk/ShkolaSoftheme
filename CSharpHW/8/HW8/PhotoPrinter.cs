@@ -8,9 +8,9 @@ namespace HW8
 {
     public class PhotoPrinter : Printer
     {
-        public void Print(string pic)
+        public override void Print(string img)
         {
-            Console.WriteLine(pic);
+            Console.WriteLine(img);
         }
     }
 }

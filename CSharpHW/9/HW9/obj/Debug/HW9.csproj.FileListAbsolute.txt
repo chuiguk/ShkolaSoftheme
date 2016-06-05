@@ -4,3 +4,6 @@ c:\users\erchi\documents\visual studio 2013\Projects\HW9\HW9\bin\Debug\HW9.exe
 c:\users\erchi\documents\visual studio 2013\Projects\HW9\HW9\bin\Debug\HW9.pdb
 c:\users\erchi\documents\visual studio 2013\Projects\HW9\HW9\obj\Debug\HW9.exe
 c:\users\erchi\documents\visual studio 2013\Projects\HW9\HW9\obj\Debug\HW9.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\9\HW9\bin\Debug\HW9.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\9\HW9\obj\Debug\HW9.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\9\HW9\obj\Debug\HW9.pdb
