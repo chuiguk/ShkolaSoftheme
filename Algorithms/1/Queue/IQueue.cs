@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW9
+namespace Queue
 {
-    interface IValidator
+    interface IQueue <T>
     {
-        void ValidateUser(IUser user);
+        void Enqueue(T item);
+        T Dequeue();
     }
 }

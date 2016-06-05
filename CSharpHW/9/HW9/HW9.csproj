@@ -41,11 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IUser.cs" />
-    <Compile Include="IValidator.cs" />
+    <Compile Include="Abstract\IUser.cs" />
+    <Compile Include="Abstract\IValidator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserDataBase.cs" />
+    <Compile Include="Realisation\User.cs" />
+    <Compile Include="Realisation\UsersManager.cs" />
+    <Compile Include="Realisation\UserValidator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

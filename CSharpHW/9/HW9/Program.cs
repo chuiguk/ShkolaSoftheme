@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HW9.Realisation;
 
 namespace HW9
 {
@@ -10,8 +11,8 @@ namespace HW9
     {
         static void Main(string[] args)
         {
-            var users = new UserDataBase();
-            users.Authorisation();
+            var usersManager = new UsersManager();
+            usersManager.StartManaging();
             Console.ReadKey();
         }
     }

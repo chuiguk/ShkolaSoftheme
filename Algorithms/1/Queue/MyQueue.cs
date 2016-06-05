@@ -1,32 +1,27 @@
 ﻿using System;
-using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Queue
 {
-    class MyQueue
+    class MyQueue <T> : IQueue<T>
     {
-        Stack firstStack = new Stack();
-        Stack secondStack = new Stack();
-        public void Enqueue(object item)
+        Stack<T> tail = new Stack<T>();
+        Stack<T> head = new Stack<T>();
+        public void Enqueue(T item)
         {
-            int count = secondStack.Count;
-            for (int i = 0; i < count; i++)
-            {
-                firstStack.Push(secondStack.Pop());
-            }
-            firstStack.Push(item);
+            tail.Push(item);
         }
-        public object Dequeue()
-        {          
-            int count = firstStack.Count;
-            for (int i = 0; i < count; i++)
+        public T Dequeue()
+        {
+            if (head.Count == 0)
             {
-                secondStack.Push(firstStack.Pop());
+                while (tail.Count > 0)
+                    head.Push(tail.Pop());
             }
-            return secondStack.Pop();
+            return head.Pop();
         }
     }
 }

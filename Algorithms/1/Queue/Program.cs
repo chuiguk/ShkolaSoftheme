@@ -10,7 +10,7 @@ namespace Queue
     {
         static void Main(string[] args)
         {
-            var queue = new MyQueue();
+            var queue = new MyQueue<int>();
             for (int i = 0; i < 10; i++)
             {
                 queue.Enqueue(i);
