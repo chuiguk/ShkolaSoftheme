@@ -10,19 +10,16 @@ namespace Queue
     {
         static void Main(string[] args)
         {
-            var stack1 = new Stack<int>();
-            var stack2 = new Stack<int>();
-            for (int i = 0; i < 100; i++)
+            var queue = new MyQueue();
+            for (int i = 0; i < 10; i++)
             {
-                stack1.Push(i);
+                queue.Enqueue(i);
             }
-            for (int i = 0; i < 100; i++)
+            Console.WriteLine(queue.Dequeue());
+            queue.Enqueue(155);
+            for (int i = 0; i < 10; i++)
             {
-                stack2.Push(stack1.Pop());
-            }
-            for (int i = 0; i < 100; i++)
-            {
-                Console.WriteLine(stack2.Pop());
+                Console.WriteLine(queue.Dequeue());
             }
             Console.ReadKey();
         }

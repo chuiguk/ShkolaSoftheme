@@ -1,1 +1,7 @@
 c:\users\erchi\documents\visual studio 2013\Projects\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.pdb
