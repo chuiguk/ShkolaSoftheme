@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\bin\Debug\HW7.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\bin\Debug\HW7.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\bin\Debug\HW7.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\obj\Debug\HW7.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\obj\Debug\HW7.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW7\HW7\obj\Debug\HW7.csprojResolveAssemblyReference.cache

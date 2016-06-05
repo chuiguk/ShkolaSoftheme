@@ -1,0 +1,8 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\Debug\HW8.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\bin\Debug\HW8.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW8\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

@@ -1,0 +1,5 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\Indexer\bin\Debug\Indexer.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\Indexer\bin\Debug\Indexer.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\Indexer\bin\Debug\Indexer.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\Indexer\obj\Debug\Indexer.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\Indexer\obj\Debug\Indexer.pdb

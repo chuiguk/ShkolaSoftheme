@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\bin\Debug\HW8.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\obj\Debug\HW8.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\bin\Debug\HW8.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\bin\Debug\HW8.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\obj\Debug\HW8.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW8\HW8\obj\Debug\HW8.pdb

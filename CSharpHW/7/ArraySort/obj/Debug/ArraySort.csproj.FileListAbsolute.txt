@@ -1,0 +1,6 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\bin\Debug\ArraySort.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\bin\Debug\ArraySort.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\bin\Debug\ArraySort.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\obj\Debug\ArraySort.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW7\ArraySort\obj\Debug\ArraySort.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW8", "HW8\HW8.csproj", "{DA44B147-ED78-4FC0-A2C0-0F3577F8017C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{E797CC84-24CC-4542-9C6D-B341056223BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA44B147-ED78-4FC0-A2C0-0F3577F8017C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA44B147-ED78-4FC0-A2C0-0F3577F8017C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA44B147-ED78-4FC0-A2C0-0F3577F8017C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA44B147-ED78-4FC0-A2C0-0F3577F8017C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E797CC84-24CC-4542-9C6D-B341056223BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E797CC84-24CC-4542-9C6D-B341056223BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E797CC84-24CC-4542-9C6D-B341056223BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E797CC84-24CC-4542-9C6D-B341056223BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
