@@ -35,7 +35,7 @@ namespace HW6
         }
         public static FileHandle OpenFile(string filePath)
         {
-            return new FileHandle(filePath, (FileAccessEnum)6);
+            return new FileHandle(filePath, FileAccessEnum.Read | FileAccessEnum.Write);
         }
     }
 }
