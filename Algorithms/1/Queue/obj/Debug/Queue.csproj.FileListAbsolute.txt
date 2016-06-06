@@ -5,3 +5,9 @@ C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queu
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.pdb
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.exe
 C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.pdb
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.exe.config
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.exe
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.pdb
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.exe
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\bin\Debug\Queue.pdb
+C:\Users\1\Documents\GitHub\ShkolaSoftheme\Algorithms\1\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache

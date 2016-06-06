@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Queue
 {
@@ -21,7 +19,14 @@ namespace Queue
                 while (tail.Count > 0)
                     head.Push(tail.Pop());
             }
-            return head.Pop();
+            if (head.Count > 0)
+            {
+                return head.Pop();
+            }
+            else
+            {
+                throw new Exception("Queue is empty!");
+            }
         }
     }
 }

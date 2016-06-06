@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Queue
 {
@@ -17,9 +13,16 @@ namespace Queue
             }
             Console.WriteLine(queue.Dequeue());
             queue.Enqueue(155);
-            for (int i = 0; i < 10; i++)
+            try
             {
-                Console.WriteLine(queue.Dequeue());
+                for (int i = 0; i < 15; i++)
+                {
+                    Console.WriteLine(queue.Dequeue());
+                }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
             Console.ReadKey();
         }
