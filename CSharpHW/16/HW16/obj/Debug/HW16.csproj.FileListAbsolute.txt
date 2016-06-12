@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\bin\Debug\HW16.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\bin\Debug\HW16.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\bin\Debug\HW16.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\obj\Debug\HW16.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\obj\Debug\HW16.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW16\HW16\obj\Debug\HW16.pdb

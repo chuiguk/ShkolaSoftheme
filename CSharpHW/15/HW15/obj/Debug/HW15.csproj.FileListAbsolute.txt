@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\bin\Debug\HW15.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\bin\Debug\HW15.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\bin\Debug\HW15.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\obj\Debug\HW15.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\obj\Debug\HW15.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW15\HW15\obj\Debug\HW15.pdb

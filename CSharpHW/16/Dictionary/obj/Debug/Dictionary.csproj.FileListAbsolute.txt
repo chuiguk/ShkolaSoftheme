@@ -1,0 +1,6 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\bin\Debug\Dictionary.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\bin\Debug\Dictionary.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\bin\Debug\Dictionary.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\obj\Debug\Dictionary.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Dictionary\obj\Debug\Dictionary.pdb

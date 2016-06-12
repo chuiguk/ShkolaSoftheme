@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\bin\Debug\HW18.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\obj\Debug\HW18.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\bin\Debug\HW18.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\bin\Debug\HW18.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\obj\Debug\HW18.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW18\HW18\obj\Debug\HW18.pdb

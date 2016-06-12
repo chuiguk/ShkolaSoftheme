@@ -1,0 +1,5 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Stack\bin\Debug\Stack.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Stack\bin\Debug\Stack.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Stack\bin\Debug\Stack.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Stack\obj\Debug\Stack.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW16\Stack\obj\Debug\Stack.pdb
