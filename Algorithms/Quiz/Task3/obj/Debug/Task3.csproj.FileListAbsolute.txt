@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\Task3\bin\Debug\Task3.exe.config
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\Task3\bin\Debug\Task3.exe
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\Task3\bin\Debug\Task3.pdb
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\Task3\obj\Debug\Task3.exe
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\Task3\obj\Debug\Task3.pdb

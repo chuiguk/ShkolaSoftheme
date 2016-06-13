@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\bin\Debug\AlgorithmsQuiz1.exe.config
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\obj\Debug\AlgorithmsQuiz1.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\bin\Debug\AlgorithmsQuiz1.exe
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\bin\Debug\AlgorithmsQuiz1.pdb
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\obj\Debug\AlgorithmsQuiz1.exe
+c:\users\1\documents\visual studio 2015\Projects\AlgorithmsQuiz1\AlgorithmsQuiz1\obj\Debug\AlgorithmsQuiz1.pdb
