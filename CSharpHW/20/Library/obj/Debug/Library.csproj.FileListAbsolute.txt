@@ -1,0 +1,12 @@
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\erchi\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\erchi\Dropbox\Library\Library\bin\Debug\Library.exe.config
+C:\Users\erchi\Dropbox\Library\Library\obj\Debug\Library.exe
+C:\Users\erchi\Dropbox\Library\Library\obj\Debug\Library.pdb
+C:\Users\erchi\Dropbox\Library\Library\bin\Debug\Library.exe
+C:\Users\erchi\Dropbox\Library\Library\bin\Debug\Library.pdb
+C:\Users\erchi\Dropbox\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
