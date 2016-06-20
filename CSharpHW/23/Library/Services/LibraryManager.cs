@@ -22,8 +22,10 @@ namespace Library.Services
 
 
         public List<Book> Books;
-        string _backupXML = "BookCollection.xml";
+        static string _backupXML = "BookCollection.xml";
         User _currentUser;
+        static XElement xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
+        List<XElement> xmlListOfBooks = xml.Elements("Book").ToList();
 
         public LibraryManager()
         {
@@ -91,8 +93,6 @@ namespace Library.Services
 
         void SummaryInformation()
         {
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
             var bookGenreGroups = xmlListOfBooks.GroupBy(book => book.Element("Genre").Value);
             Console.WriteLine("Grouped count by genre:");
             foreach (var bookGenreGroup in bookGenreGroups)
@@ -127,9 +127,6 @@ namespace Library.Services
             Console.WriteLine("Enter book name");
             var name = Console.ReadLine();
 
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
-
             if (!xmlListOfBooks.Any(x => x.Element("Name").Value == name))
             {
                 Console.WriteLine("Book not found!");
@@ -146,9 +143,6 @@ namespace Library.Services
         {
             Console.WriteLine("Enter book author");
             var author = Console.ReadLine();
-
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
 
             if (!xmlListOfBooks.Any(x => x.Element("Name").Value == author))
             {
@@ -169,9 +163,6 @@ namespace Library.Services
             Console.WriteLine("Enter book author");
             var author = Console.ReadLine();
 
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
-
             if (!xmlListOfBooks.Any(x => x.Element("Name").Value == name && x.Element("Author").Value == author))
             {
                 Console.WriteLine("Book not found!");
@@ -187,8 +178,7 @@ namespace Library.Services
         {
             Console.WriteLine("Enter book genre:");
             var genre = Console.ReadLine();
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
+
             var mostPopular = xmlListOfBooks.Where(x => x.Element("Genre").Value == genre).Max(x => x.Element("Popularity").Value);
             if (mostPopular == null)
             {
@@ -204,8 +194,7 @@ namespace Library.Services
         {
             Console.WriteLine("Enter book name:");
             var name = Console.ReadLine();
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
+
             if (!xmlListOfBooks.Any(x => x.Element("Name").Value == name))
             {
                 Console.WriteLine("Book not found!");
@@ -220,8 +209,7 @@ namespace Library.Services
         {
             Console.WriteLine("Enter book name:");
             var name = Console.ReadLine();
-            var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
-            var xmlListOfBooks = xml.Elements("Book").ToList();
+
             if (!xmlListOfBooks.Any(x => x.Element("Name").Value == name))
             {
                 Console.WriteLine("The book is not from our library!");
@@ -247,7 +235,7 @@ namespace Library.Services
                 var year = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter pages count:");
                 var pages = Convert.ToInt32(Console.ReadLine());
-                var xml = XDocument.Load(_backupXML).Element("ArrayOfBook");
+             
                 xml.Add(new XElement("Book", new XElement("Name", name), new XElement("Author", author),
                     new XElement("Genere", genre), new XElement("Year", year),
                     new XElement("PagesCount", pages), new XElement("Popularity", 0)));

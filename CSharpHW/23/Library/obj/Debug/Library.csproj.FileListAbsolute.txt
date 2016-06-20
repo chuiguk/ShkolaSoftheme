@@ -11,3 +11,10 @@ C:\Users\erchi\Dropbox\Library\Library\bin\Debug\Library.exe
 C:\Users\erchi\Dropbox\Library\Library\bin\Debug\Library.pdb
 C:\Users\erchi\Dropbox\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
 C:\Users\erchi\Dropbox\Library\Library\bin\Debug\protobuf-net.dll
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\bin\Debug\Library.exe.config
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\obj\Debug\Library.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\obj\Debug\Library.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\bin\Debug\Library.exe
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\bin\Debug\Library.pdb
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\bin\Debug\protobuf-net.dll
+C:\Users\erchi\Documents\GitHub\ShkolaSoftheme\CSharpHW\23\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
