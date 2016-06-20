@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>1</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Lord of the Rings</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1900</Year>
+    <PagesCount>1000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Hobbit</Name>
+    <Genre>Fantasy</Genre>
+    <Author>Tolkien</Author>
+    <Year>1800</Year>
+    <PagesCount>2000</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+  <Book>
+    <Name>The Da Vinci Code</Name>
+    <Genre>Detective</Genre>
+    <Author>Dan Brown</Author>
+    <Year>2000</Year>
+    <PagesCount>500</PagesCount>
+    <Popularity>0</Popularity>
+  </Book>
+</ArrayOfBook>
