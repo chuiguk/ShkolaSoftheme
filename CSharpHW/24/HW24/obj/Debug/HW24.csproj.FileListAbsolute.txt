@@ -1,0 +1,12 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\bin\Debug\HW24.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\obj\Debug\HW24.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\bin\Debug\HW24.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\bin\Debug\HW24.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\obj\Debug\HW24.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW24\HW24\obj\Debug\HW24.pdb
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.exe.config
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\HW24.exe
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\HW24.pdb
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.exe
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.pdb
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\HW24.csprojResolveAssemblyReference.cache

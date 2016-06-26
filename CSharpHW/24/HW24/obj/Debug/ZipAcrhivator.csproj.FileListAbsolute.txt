@@ -1,0 +1,6 @@
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.exe.config
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.exe
+C:\Users\erchi\Dropbox\HW24\HW24\bin\Debug\HW24.pdb
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\ZipAcrhivator.csprojResolveAssemblyReference.cache
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\HW24.exe
+C:\Users\erchi\Dropbox\HW24\HW24\obj\Debug\HW24.pdb

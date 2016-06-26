@@ -1,0 +1,6 @@
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\bin\Debug\HW25.exe.config
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\bin\Debug\HW25.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\bin\Debug\HW25.pdb
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\obj\Debug\ZipArchivator.csprojResolveAssemblyReference.cache
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\obj\Debug\HW25.exe
+c:\users\erchi\documents\visual studio 2013\Projects\HW25\HW25\obj\Debug\HW25.pdb

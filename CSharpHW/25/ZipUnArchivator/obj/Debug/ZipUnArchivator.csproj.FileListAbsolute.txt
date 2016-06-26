@@ -1,0 +1,6 @@
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\bin\Debug\ZipUnArchivator.exe.config
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\obj\Debug\ZipUnArchivator.csprojResolveAssemblyReference.cache
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\bin\Debug\ZipUnArchivator.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\bin\Debug\ZipUnArchivator.pdb
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\obj\Debug\ZipUnArchivator.exe
+c:\Users\erchi\documents\visual studio 2013\Projects\HW25\ZipUnArchivator\obj\Debug\ZipUnArchivator.pdb

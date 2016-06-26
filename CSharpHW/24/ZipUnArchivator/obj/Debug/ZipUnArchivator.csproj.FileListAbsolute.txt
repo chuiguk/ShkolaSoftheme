@@ -1,0 +1,5 @@
+C:\Users\erchi\Dropbox\HW24\ZipUnArchivator\bin\Debug\ZipUnArchivator.exe.config
+C:\Users\erchi\Dropbox\HW24\ZipUnArchivator\bin\Debug\ZipUnArchivator.exe
+C:\Users\erchi\Dropbox\HW24\ZipUnArchivator\bin\Debug\ZipUnArchivator.pdb
+C:\Users\erchi\Dropbox\HW24\ZipUnArchivator\obj\Debug\ZipUnArchivator.exe
+C:\Users\erchi\Dropbox\HW24\ZipUnArchivator\obj\Debug\ZipUnArchivator.pdb
